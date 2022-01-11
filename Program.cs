@@ -73,7 +73,7 @@ var data = new Data
     }
 };
 
-Workbook.SetLicenseKey("");
+// Workbook.SetLicenseKey("");
 
 // 新しいワークブックを生成
 var workbook = new Workbook();
